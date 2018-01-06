@@ -4,28 +4,20 @@ title: Venue
 sidebar_link: true
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+### Farmhouse at People's Light and Theater
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+Set among award-winning perennial English gardens of People's Light, [The Farmhouse](http://www.farmhousepeopleslight.com/) is a premier venue in Chester County. The restored 18th century farmhouse boasts a beautifully appointed dining room with a private tented terrace and spacious landscaped surroundings. Smaller, more intimate celebrations are elegantly executed in the adjacent Farmhouse Bistro. With its trademark superior service, the 230-year-old historic landmark facility is selected to host the most beautiful weddings, special events, and corporate celebrations in the area. Our dedicated staff of experienced professionals will assist you in planning and executing an unforgettable event.
 
-There are currently two themes built on Poole:
+![The Farmouse](/assets/img/farmhouse.jpg)
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+### Venue Location
+The Farmhouse at People's Light \\
+39 Conestoga Road, \\
+Malvern, PA 19355 \\
+(610) 647-1631
 
-Learn more and contribute on [GitHub](https://github.com/poole).
-
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+### Features
+* Plenty of parking
+* Ceremony and reception are in the same location
+* Beautiful grounds
+* Free [theater ticket to People's Light](http://peopleslight.org/) for every guest!

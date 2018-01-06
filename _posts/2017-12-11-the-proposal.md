@@ -1,4 +1,4 @@
 ---
 layout: post
-title: Ben swoops in
+title: The proposal
 ---

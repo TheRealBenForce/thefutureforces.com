@@ -1,11 +1,14 @@
-# Hydeout
+### About
+
+Just a simple wedding site for myself and my future wife.
+
+I used my [s3plus](https://github.com/TheRealBenForce/s3plus) cloudformation to create the s3 bucket, cert, Route 53 records, cloudfront distribution.
+
+
+The blog uses jekyll with a modified verion of the Hydeout theme.
 
 Hydeout updates the original [Hyde](https://github.com/poole/hyde)
 theme for [Jekyll](http://jekyllrb.com) 3.x and adds new functionality.
-
-![Desktop](/_screenshots/1.png?raw=true)
-<img alt="Mobile home page" src="/_screenshots/2.png?raw=true" width="300px" />
-<img alt="Mobile post page" src="/_screenshots/3.png?raw=true" width="300px" />
 
 ### Usage
 

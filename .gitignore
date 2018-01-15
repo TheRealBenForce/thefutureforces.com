@@ -48,3 +48,4 @@ _config.dev.yml
 .vscode
 *.gem
 s3_website.yml
+.jekyll-metadata

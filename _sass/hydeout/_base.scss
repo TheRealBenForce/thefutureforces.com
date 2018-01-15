@@ -37,9 +37,7 @@ a {
   text-decoration: none;
 
   // `:focus` is linked to `:hover` for basic accessibility
-  &:hover {
-    color: pink;
-  }
+
   &:focus {
     text-decoration: none;
   }
@@ -99,7 +97,7 @@ button, input[type="submit"] {
   &:hover {
     background: $link-color;
     border-color: $link-color;
-    color: pink;
+    color: $link-hover-color;
     box-shadow: $default-box-shadow;
   }
 }

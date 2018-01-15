@@ -226,11 +226,11 @@ body {
   }
 
   &:hover, &:focus {
-    text-decoration: none;
-    color: pink;
+    text-decoration: $link-hover-text-decoration;
+    color: $link-hover-color;
     &.icon {
-      text-decoration: none;
-      color: pink;
+      text-decoration: $link-hover-text-decoration;
+      color: $link-hover-color;
     }
   }
 

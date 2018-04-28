@@ -8,7 +8,7 @@ sidebar_link: true
 * 3:00 PM - Hotel check-in.
 * 4:30 to 5:20 PM - Shuttles from the Marriot hotel to the ceremony venue.
 * 5:30 to 6:00 PM - Ceremony
-* 6:30 to 7:30 PM - Ceremony ends. Ben and Jenn are married! Cocktail hour begins!
+* 6:30 to 7:30 PM - Cocktail hour begins!
 * 7:30 to 10:30 PM - Drinks, dinner and dance party!
 * 10:30 to 11:00 PM - Shuttles back to the hotel.
 * 11:00 to ??:?? AM - Meet in the hotel lobby for the after party!

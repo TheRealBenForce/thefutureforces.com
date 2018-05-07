@@ -5,9 +5,9 @@ sidebar_link: true
 ---
 
 ### Gifts
-Jenn and Ben are embarking together on a new chapter in life! To help get them started on this adventure, cash gifts would appreciated. Jenn and Ben have not created a registry. 
+Jenn and Ben are embarking together on a new chapter in life! To help get them started on this adventure, cash gifts would be appreciated. Jenn and Ben have not created a registry. 
 
-If you would prefer to not give a cash gift, you can also chose to make a donation in Jenn and Ben's name to one of their favorite charities below:
+If you would prefer to not give a cash gift, you can also choose to make a donation in Jenn and Ben's name to one of their favorite charities below:
 
 [Curvey Girls](https://www.curvygirlsscoliosis.com/donate)
 

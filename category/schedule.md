@@ -8,7 +8,7 @@ sidebar_link: true
 * 3:00 PM - Hotel check-in.
 * 4:50 PM - First shuttle from Marriot hotel leaves for the ceremony venue.
 * 5:10 PM - Second and Final shuttle from Marriot hotel leaves for the ceremony venue.
-* 5:30 to 6:00 PM - Ceremony
+* 5:30 to 6:00 PM - Ceremony.
 * 6:00 to 7:00 PM - Cocktail hour begins!
 * 7:00 to 10:30 PM - Drinks, dinner and dance party!
 * 10:30 to 11:00 PM - Shuttles back to the hotel.
